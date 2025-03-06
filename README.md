@@ -1,5 +1,5 @@
 <h2>👋 Hi, I’m Swetha!</h2>
-<hr>
+
 <h3>🌷 About Me</h3>
 <li>- 🎨 Skilled in HTML, CSS, JavaScript, React.</li>
 <li>- 💻 Love crafting responsive and user-friendly web applications.</li>
