@@ -3,7 +3,7 @@
 <h3>🌷 About Me</h3>
 <li> 🎨 Frontend Developer skilled in HTML, CSS, JavaScript, React.</li>
 <li> 💻 Love crafting responsive and user-friendly web applications.</li>
-<li>🌱 Currently exploring Bootstrap to enhance UI design.</li>
+<li>🌱 Currently exploring tailwindcss to enhance UI design.</li>
 <li>💞️ Open to collaborating on exciting frontend projects.</li>
 
 <h3>📫 Let's Connect!</h3>
