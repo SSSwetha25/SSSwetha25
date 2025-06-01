@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App)  
   A group video calling platform using javascript.
   
-- ✅ [Task Manager](https://github.com/SSSwetha25/task-manager)  
+- ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git)  
   A clean and user-friendly React-based to-do app with dark/light mode toggle and Tailwind styling.
 
 
