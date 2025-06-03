@@ -6,6 +6,11 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 >Hi 👋, I'm Swetha</h1>
 
+
+
+I’m a computer science student passionate about building meaningful projects and writing better code every day.
+I’m currently focused on strengthening my problem-solving skills and exploring practical applications of software development.
+
 ---
 
 ## 🌷 About Me
