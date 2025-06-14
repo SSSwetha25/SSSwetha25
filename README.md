@@ -45,7 +45,10 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 - ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git)  
   A clean and user-friendly React-based to-do app with dark/light mode toggle and Tailwind styling.
 
+- ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git)  
+  A simple and responsive React weather app that shows real-time weather data using the OpenWeatherMap API.
 
+   
 ---
 
 ## 🎯 What I'm Currently Working On
