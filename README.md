@@ -4,7 +4,7 @@
 SSSwetha25/SSSwetha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 >Hi 👋, I'm Swetha</h1>
+<h1>Hi 👋, I'm Swetha</h1>
 
 
 
@@ -15,9 +15,9 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 
 ## 🌷 About Me
 
-🌱 I'm a passionate **frontend developer**, building responsive and accessible web applications.  
-🎯 Focused on crafting seamless user experiences using **React**, **JavaScript**, and **Tailwind CSS**.  
-🔧 Expanding my skills in building responsive layouts, integrating APIs, and writing clean, maintainable frontend code.  
+🌱 Passionate frontend developer focused on building responsive, accessible, and user-friendly web applications.  
+🎯 Enjoy working with **React**, **JavaScript**, and **Tailwind CSS** to deliver intuitive UI/UX. 
+🔧 Currently enhancing my skills in component reusability, API integration, and clean code practices.  
 📘 Actively learning how to build better UIs, collaborate on real-world projects, and contribute to open-source communities. 
 
 ---
@@ -37,16 +37,16 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 ## 🚀 Featured Projects
 
 - 🤖 [ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)  
-  Real-time chatbot that accepts sign language input and returns text responses.
+  A real-time chatbot that interprets sign language input and returns meaningful text responses.
 
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App)  
-  A group video calling platform using javascript.
+  A browser-based group video calling app with basic real-time chat and media controls.
   
 - ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git)  
   A clean and user-friendly React-based to-do app with dark/light mode toggle and Tailwind styling.
 
 - ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git)  
-  A simple and responsive React weather app that shows real-time weather data using the OpenWeatherMap API.
+  A responsive React weather app that shows real-time weather data using the OpenWeatherMap API.
 
    
 ---
@@ -54,8 +54,8 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 ## 🎯 What I'm Currently Working On
 
 - Building reusable components with React and Tailwind CSS
-- Improving UI accessibility and responsiveness
-- Exploring backend basics (Node.js and Express)
+- Improving web accessibility and mobile responsiveness
+- Learning the basics of Node.js and Express.js for full-stack development
 
 ---
 
@@ -63,5 +63,9 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swetha-s-s-63b3122b1)  
 
+---
+## 📊 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SSSwetha25&theme=radical)
 
 
