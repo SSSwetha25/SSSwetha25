@@ -16,9 +16,10 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 ## 🌷 About Me
 
 🌱 Passionate frontend developer focused on building responsive, accessible, and user-friendly web applications.  
-🎯 Enjoy working with **React**, **JavaScript**, and **Tailwind CSS** to deliver intuitive UI/UX. 
-🔧 Currently enhancing my skills in component reusability, API integration, and clean code practices.  
+🎯 Enjoy working with **React**, **JavaScript**, and **Tailwind CSS** to deliver intuitive UI/UX. <br>
+🔧 Currently enhancing my skills in component reusability, API integration, and clean code practices. <br>
 📘 Actively learning how to build better UIs, collaborate on real-world projects, and contribute to open-source communities. 
+
 
 ---
 
