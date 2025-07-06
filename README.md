@@ -37,19 +37,12 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 
 ## 🚀 Featured Projects
 
-- 🤖 [ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)  
-  A real-time chatbot that interprets sign language input and returns meaningful text responses.
+- 🔥 **[ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)** – Real-time chatbot that interprets sign language input.
+- 💬 **[Chat App](https://github.com/SSSwetha25/Real-time-chat-app.git)** – A real-time multi-user chat app using reactjs.
+- ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
+- 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App) – A group video calling platform using JavaScript.
+- ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git) – A responsive weather app using the OpenWeatherMap API.
 
-- 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App)  
-  A browser-based group video calling app with basic real-time chat and media controls.
-  
-- ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git)  
-  A clean and user-friendly React-based to-do app with dark/light mode toggle and Tailwind styling.
-
-- ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git)  
-  A responsive React weather app that shows real-time weather data using the OpenWeatherMap API.
-
-   
 ---
 
 ## 🎯 What I'm Currently Working On
@@ -58,15 +51,16 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 - Improving web accessibility and mobile responsiveness
 - Learning the basics of Node.js and Express.js for full-stack development
 
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swetha-s-s-63b3122b1)  
 
 ---
 ## 📊 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=SSSwetha25&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swetha-s-s-63b3122b1)  
 
 
