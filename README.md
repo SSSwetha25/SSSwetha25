@@ -53,11 +53,7 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 
 
 ---
-## 📊 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SSSwetha25&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
