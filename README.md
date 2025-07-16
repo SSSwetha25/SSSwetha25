@@ -38,7 +38,6 @@ I’m currently focused on strengthening my problem-solving skills and exploring
 ## 🚀 Featured Projects
 
 - 🔥 **[ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)** – Real-time chatbot that interprets sign language input.
-- 💬 **[Chat App](https://github.com/SSSwetha25/Real-time-chat-app.git)** – A real-time multi-user chat app using reactjs.
 - ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App) – A group video calling platform using JavaScript.
 - ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git) – A responsive weather app using the OpenWeatherMap API.
