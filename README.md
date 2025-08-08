@@ -48,9 +48,9 @@ I enjoy crafting clean, responsive interfaces with **React**, **JavaScript**, an
 ## 🚀 Featured Projects
 
 - 🔥 **[ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)** – Real-time chatbot that interprets sign language input.
-- ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App) – A group video calling platform using JavaScript.
 - ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git) – A responsive weather app using the OpenWeatherMap API.
+- ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
 > 📌 *Feel free to check out more on my GitHub profile!*
 ---
 
