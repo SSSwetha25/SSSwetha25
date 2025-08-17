@@ -6,12 +6,13 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi 👋, I'm Swetha</h1>
 
+I’m a computer science student who enjoys solving problems through code and building applications that combine functionality with clean design.
+
 ## 🌱 About Me
 
-I'm a computer science student passionate about building meaningful, user-focused applications.  
-I enjoy crafting clean, responsive interfaces with **React**, **JavaScript**, and **Tailwind CSS**, and I'm always striving to write better code every day.
 
-- 🔍 Focused on **problem-solving** and applying software development in real-world scenarios  
+
+- 🔍 Interested in problem-solving and applying software to real-world use cases
 - 🔧 Currently working on **component reusability**, **API integration**, and **maintainable code structures**  
 - 🤝 Exploring collaboration opportunities and contributing to **open-source communities**  
 - 📚 Learning the foundations of **Node.js** and **Express.js** for backend development
