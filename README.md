@@ -48,7 +48,8 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 ## 🚀 Featured Projects
 
-- 🔥 **[ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot)** – Real-time chatbot that interprets sign language input.
+- 🔥 [ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot) – Real-time chatbot that interprets sign language input.
+- 🔁 [Skill Swap Platform](https://github.com/SSSwetha25/skill-swap-platform.git) – A skill exchange web app for exchanging skills.
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App) – A group video calling platform using JavaScript.
 - ⛅ [Weather App](https://github.com/SSSwetha25/weather-app.git) – A responsive weather app using the OpenWeatherMap API.
 - ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
