@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi 👋, I'm Swetha</h1>
 
+
 I’m a computer science student who enjoys solving problems through code and building applications that combine functionality with clean design.
 
 ## 🌱 About Me
@@ -67,8 +68,8 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 
 ## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/swetha-s-s-63b3122b1)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-six-bay.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetha-s-s-63b3122b1)  
 
 ---
 
