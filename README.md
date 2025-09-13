@@ -49,9 +49,9 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 ## 🚀 Featured Projects
 
-- 🔥 [ASL Chatbot](https://github.com/SSSwetha25/asl-chatbot) – Real-time chatbot that interprets sign language input.
 - 🔁 [Skill Swap Platform](https://github.com/SSSwetha25/skill-swap-platform.git) – A skill exchange web app for exchanging skills.
 - 🎥 [Video Conferencing App](https://github.com/SSSwetha25/Video-Conferencing-App) – A group video calling platform using JavaScript.
+-  ✅ [Task Manager](https://github.com/SSSwetha25/To-Do-App.git) – A clean, responsive to-do app with React and Tailwind CSS.
 
 > 📌 *Feel free to check out more on my GitHub profile!*
 ---
