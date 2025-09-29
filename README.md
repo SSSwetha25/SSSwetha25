@@ -13,10 +13,10 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 
 
-- 🔍 Interested in problem-solving and applying software to real-world use cases
-- 🔧 Currently working on **component reusability**, **API integration**, and **maintainable code structures**  
-- 🤝 Exploring collaboration opportunities and contributing to **open-source communities**  
-- 📚 Learning the foundations of **Node.js** and **Express.js** for backend development
+- 🔍 Interested in problem-solving and applying software to real-world use cases.
+- 🔧 Currently working on **component reusability**, **API integration**, and **maintainable code structures**.
+- 🤝 Exploring collaboration opportunities and contributing to **open-source communities**.
+- 📚 Learning the foundations of **Node.js** and **Express.js** for backend development.
 
 ---
 ## 🛠️ Tech Stack
@@ -59,8 +59,8 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 ## 🎯 What I'm Currently Working On
 
-- Building reusable components with React and Tailwind CSS
-- Learning the basics of Node.js and Express.js for full-stack development
+- Building reusable components with React and Tailwind CSS.
+- Learning the basics of Node.js and Express.js for full-stack development.
 
 
 ---
