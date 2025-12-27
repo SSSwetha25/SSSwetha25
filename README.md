@@ -14,7 +14,6 @@ I’m a computer science student who enjoys solving problems through code and bu
 
 
 - 🔍 Interested in problem-solving and applying software to real-world use cases.
-- 🔧 Currently working on **component reusability**, **API integration**, and **maintainable code structures**.
 - 🤝 Exploring collaboration opportunities and contributing to **open-source communities**.
 - 📚 Learning the foundations of **Node.js** and **Express.js** for backend development.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/swetha-s-s-63b3122b1) 
