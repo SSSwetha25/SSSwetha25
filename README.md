@@ -6,7 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>Hi 👋, I'm Swetha</h1>
 
-
 I’m a computer science student who enjoys solving problems through code and building applications that combine functionality with clean design.
 
 ## 🌱 About Me
